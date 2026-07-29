@@ -9,12 +9,14 @@ This project delivers an interactive data analysis of the Global Superstore data
 
 ### 1. Base Summary Data (Pivot Table)
 The core numbers behind our analysis showing total sales and total profit per category:
+
 ![Pivot Table Overview](Screenshots/01_pivot_table_sales_vs_profit.png.png)
 
 The Major Issue: Furniture generates a huge amount of revenue ($742K), but contributes almost nothing in profit (only $18.4K) compared to the other categories. Why is that? That's exactly what we'll uncover by analyzing the discounts.
 
 ### 2. Sub-Category Deep-Dive & Discount Audit
 Detailed breakdown analyzing the impact of average discounts and margins on product sub-categories:
+
 ![Sub-Category Audit](Screenshots/02_pivot_table_subcategory_deep_dive.png.png)
 
 The analysis reveals a clear pattern: once the average discount exceeds 20%, sub-categories such as Tables, Bookcases, and Binders become unprofitable on average.
@@ -48,6 +50,7 @@ Technology leads all categories with a profit of $33,697.43, making it the top-p
 ##  6. Discount & Profitability Analysis
 
 An analysis of discount levels reveals the primary root cause of losses in the **Furniture** category:
+
 ![Furniture Discount Analysis](Screenshots/06_furniture_discount_analysis.png.png)
 
 * **0% – 20% Discount:** Products remain profitable, generating healthy margins.
@@ -57,6 +60,7 @@ An analysis of discount levels reveals the primary root cause of losses in the *
 
 ##  7. Top vs. Bottom Product Performance
 A deep dive into individual product profitability reveals extreme disparities:
+
 ![Top and Flop Products Analysis](Screenshots/07_top_flop_products.png.png)
 
 High-ticket items like 3D printers and large conference tables suffer massive losses when paired with aggressive discounting (>20%). Conversely, copiers and office binding equipment represent our most lucrative lines.
