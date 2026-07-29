@@ -110,9 +110,11 @@ superstore-sales-profit-analysis/
 ├── dashboards/
 │   └── Superstore_Dashboard.xlsx
 ├── screenshots/
-│   ├── 01_pivot_table_sales_vs_profit.png.png
-│   ├── 02_pivot_table_subcategory_deep_dive.png.png
-│   ├── 03_sales_vs_profit_global_currency.png.png
+│  ├── 01_pivot_table_sales_vs_profit.png
+│   ├── 02_pivot_table_subcategory_deep_dive.png
+│   ├── 03_sales_vs_profit_global_currency.png
 │   ├── 04_slicers_region_and_timeline.png.png
-│   └── 05_sales_vs_profit_central_region.png.png
+│   ├── 05_sales_vs_profit_central_region.png.png
+│   ├── 06_furniture_discount_analysis.png.png
+│   └── 07_top_flop_products.png.png
 └── README.md
