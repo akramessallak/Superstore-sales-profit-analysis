@@ -37,11 +37,9 @@ Let's filter the data to the Central region using the slicer. Is the Furniture c
 
 ### 5. Regional Deep-Dive (Central Region Alert)
 
-Filtering by the **Central Region** reveals critical margin loss in the Furniture line:
+Filtering by the **Central Region** exposes a major financial drain in the Furniture department:
 
 ![Central Region Analysis](Screenshots/05_sales_vs_profit_central_region.png.png)
-
-Filtering by the Central Region exposes a major financial drain in the Furniture department:
 
 Furniture records a negative profit of -$2,871.05, making it the only category operating at a loss in the Central region due to localized over-discounting.
 
