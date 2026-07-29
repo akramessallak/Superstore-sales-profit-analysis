@@ -24,6 +24,7 @@ Clean, formatted visual representation focused strictly on Core Metrics ($Sales 
 ![Global Sales vs Profit](Screenshots/03_sales_vs_profit_global_currency.png.png)
 
 Furniture: Despite generating the highest sales, the category delivers disproportionately low profit, indicating poor profitability.
+
 Office Supplies & Technology: Both categories convert sales into profit much more effectively, demonstrating stronger and healthier profit performance.
 
 ### 4. Interactive Slicers & Dynamic Filtering
@@ -37,7 +38,9 @@ Filtering by the **Central Region** reveals critical margin loss in the Furnitur
 ![Central Region Analysis](Screenshots/05_sales_vs_profit_central_region.png.png)
 
 Filtering by the Central Region exposes a major financial drain in the Furniture department:
-Furniture records a negative profit of -$2,871.05, making it the only category operating at a loss in the Central region due to localized over-discounting..
+
+Furniture records a negative profit of -$2,871.05, making it the only category operating at a loss in the Central region due to localized over-discounting.
+
 Technology leads all categories with a profit of $33,697.43, making it the top-performing category in terms of profitability.
 
 ##  6. Discount & Profitability Analysis
