@@ -20,7 +20,7 @@ Detailed breakdown analyzing the impact of average discounts and margins on prod
 The analysis reveals a clear pattern: once the average discount exceeds 20%, sub-categories such as Tables, Bookcases, and Binders become unprofitable on average.
 
 ### 3. Global Performance by Category
-Clean, formatted visual representation focused strictly on Core Metrics ($Sales vs$Profit across all regions):
+
 ![Global Sales vs Profit](Screenshots/03_sales_vs_profit_global_currency.png.png)
 
 Furniture: Despite generating the highest sales, the category delivers disproportionately low profit, indicating poor profitability.
@@ -28,13 +28,15 @@ Furniture: Despite generating the highest sales, the category delivers dispropor
 Office Supplies & Technology: Both categories convert sales into profit much more effectively, demonstrating stronger and healthier profit performance.
 
 ### 4. Interactive Slicers & Dynamic Filtering
-Dynamic filtering tools configured for location (Region) and time (Timeline):
+
 ![Region Slicer and Timeline](Screenshots/04_slicers_region_and_timeline.png.png)
 
 Let's filter the data to the Central region using the slicer. Is the Furniture category still profitable, or does its profit become negative?
 
 ### 5. Regional Deep-Dive (Central Region Alert)
+
 Filtering by the **Central Region** reveals critical margin loss in the Furniture line:
+
 ![Central Region Analysis](Screenshots/05_sales_vs_profit_central_region.png.png)
 
 Filtering by the Central Region exposes a major financial drain in the Furniture department:
