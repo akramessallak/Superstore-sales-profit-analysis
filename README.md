@@ -58,7 +58,7 @@ superstore-sales-profit-analysis/
 ├── data/
 │   └── Superstore_Dataset.xlsx
 ├── dashboards/
-│   └── Superstore_Sales_Profit_Dashboard.xlsx
+│   └── Superstore_Dashboard.xlsx
 ├── screenshots/
 │   ├── 01_pivot_table_sales_vs_profit.png.png
 │   ├── 02_pivot_table_subcategory_deep_dive.png.png
