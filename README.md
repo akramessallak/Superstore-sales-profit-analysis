@@ -9,23 +9,23 @@ This project delivers an interactive data analysis of the Global Superstore data
 
 ### 1. Base Summary Data (Pivot Table)
 The core numbers behind our analysis showing total sales and total profit per category:
-![Pivot Table Overview](screenshots/01_pivot_table_sales_vs_profit.png)
+![Pivot Table Overview](Screenshots/01_pivot_table_sales_vs_profit.png)
 
 ### 2. Sub-Category Deep-Dive & Discount Audit
 Detailed breakdown analyzing the impact of average discounts and margins on product sub-categories:
-![Sub-Category Audit](screenshots/02_pivot_table_subcategory_deep_dive.png)
+![Sub-Category Audit](Screenshots/02_pivot_table_subcategory_deep_dive.png)
 
 ### 3. Global Performance by Category
 Clean, formatted visual representation focused strictly on Core Metrics ($Sales vs$Profit across all regions):
-![Global Sales vs Profit](screenshots/03_sales_vs_profit_global_currency.png)
+![Global Sales vs Profit](Screenshots/03_sales_vs_profit_global_currency.png)
 
 ### 4. Interactive Slicers & Dynamic Filtering
 Dynamic filtering tools configured for location (Region) and time (Timeline):
-![Region Slicer and Timeline](screenshots/04_slicers_region_and_timeline.png)
+![Region Slicer and Timeline](Screenshots/04_slicers_region_and_timeline.png)
 
 ### 5. Regional Deep-Dive (Central Region Alert)
 Filtering by the **Central Region** reveals critical margin loss in the Furniture line:
-![Central Region Analysis](screenshots/05_sales_vs_profit_central_region.png)
+![Central Region Analysis](Screenshots/05_sales_vs_profit_central_region.png)
 
 ---
 
