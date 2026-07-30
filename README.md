@@ -48,6 +48,8 @@ Technology leads all categories with a profit of $33,697.43, making it the top-p
 
 ##  6. Discount & Profitability Analysis
 
+While several factors (region, shipping mode, customer segment, and time) could influence profitability, the analysis prioritized discounts because they showed the strongest relationship with declining profit margins. Regional filtering was then used to identify where these losses were concentrated.
+
 An analysis of discount levels reveals the primary root cause of losses in the **Furniture** category:
 
 ![Furniture Discount Analysis](Screenshots/06_furniture_discount_analysis.png)
