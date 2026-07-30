@@ -6,6 +6,7 @@ This project delivers an interactive data analysis of the Global Superstore data
 ---
 
 ##  Dashboard Overview & Key Visuals
+The dataset was reviewed for missing values, duplicate records, and inconsistent data types. Minimal cleaning was required because the dataset was already well-structured.
 
 ### 1. Base Summary Data (Pivot Table)
 The core numbers behind our analysis showing total sales and total profit per category:
